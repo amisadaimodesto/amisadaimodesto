@@ -49,28 +49,3 @@
 amisadaimodesto/amisadaimodesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## Interesses
-
-- Desenvolvimento Web
-- Inteligência Artificial
-- Big Data
-- ETL
-- Software Open Source
-- Ciência de Dados
-- Automação
-
-## Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisadai-modesto/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amisadai.modesto)
-
-## Licença
-
-![GitHub](https://img.shields.io/github/license/https://github.com/amisadaimodesto/amisadaimodesto/amisadaimodesto?style=for-the-badge)
-
-
-<!---
-amisadaimodesto/amisadaimodesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
