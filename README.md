@@ -2,8 +2,8 @@
 
 ## Sobre mim
 
-🎓 **Educação:** Formando em Análise e Desenvilmento de Sistemas pela Universidade Católica de Brasília
-                Pós-graduando em Gestão de Big Data e Busyness Analytics no Senac EAD.
+🎓 **Educação:** Formando em Análise e Desenvilmento de Sistemas pela Universidade Católica de Brasília.
+               ** Pós-graduando em Gestão de Big Data e Busyness Analytics no Senac EAD.
                 
 ✉️ **Contato:** amisadai.modesto@gmx.us(mailto:amisadai.modesto@gmx.us)
 
