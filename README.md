@@ -3,30 +3,46 @@
 ## Sobre mim
 
 🎓 **Educação:**
-- Formando em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília
-- Pós-graduando em Gestão de Big Data e Business Analytics no Senac EAD
+- Análise e Desenvolvimento de Sistemas | Universidade Católica de Brasília
+- Pós-graduado em Gestão de Big Data e Business Analytics | Senac EAD
+- Fundamentos de Adm. Redes Linux — Nível I (2023) | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+- Engenharia e Construção de Sistemas de Software (2023) | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+- Introdução à Inteligência Artificial em Python (2024) | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
                 
-✉️ **Contato:** amisadai.modesto@gmx.us(mailto:amisadai.modesto@gmx.us)
+✉️ **Contato:** amisadai_modesto@gmx.com(mailto:amisadai_modesto@gmx.com)
 
 ## Tecnologias e Ferramentas
 
-# Olá, eu sou Amisadai! 👋
+**Bancos de dados**
+- ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## Sobre mim
+**Linux**
+- ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🎓 **Educação:** Formando em Análise e Desenvilmento de Sistemas pela Universidade Católica de Brasília.  
-✉️ **Contato:** amisadai.modesto@gmx.us(mailto:amisadai.modesto@gmx.us)
+**VBA | LibreOffice**
+- ![VBA Excel](https://img.shields.io/badge/VBA%20Excel-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+- ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)
 
-## Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VBA Excel](https://img.shields.io/badge/VBA%20Excel-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Python**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+**Data Analytics**
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+- ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
+- ![Métodos Ágeis](https://img.shields.io/badge/Métodos%20Ágeis-FF6F61?logo=leanpub&logoColor=white)
+- ![Big Data](https://img.shields.io/badge/Big%20Data-FF8C00?logo=apache&logoColor=white)
+
+**API**
+- ![API RESTful](https://img.shields.io/badge/API%20RESTful-005571?logo=apachespark&logoColor=white)
+
+**Inteligência artificial**
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- ![IA](https://img.shields.io/badge/Inteligência%20Artificial-272727?logo=openai&logoColor=white)
 
 ## Interesses
 
@@ -41,7 +57,7 @@
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisadai-modesto/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amisadai.modesto)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amisadaism)
 
 ## Licença
 
