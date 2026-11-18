@@ -2,7 +2,7 @@
 
 ### Data Engineer & Data Analyst | Python • SQL • Lakehouse • Data QA • Cloud (AWS) • Business & FP&A
 
-Profissional de dados com formação híbrida em **Análise e Desenvolvimento de Sistemas**, **Ciências Contábeis** e pós-graduação em **Big Data & Business Analytics**. Atuo na construção de pipelines de dados confiáveis, arquiteturas analíticas (Medallion / Star Schema), **engenharia de qualidade de dados (Data QA & testes automatizados)**, automação de processos financeiros e entrega de indicadores estratégicos que conectam operação e resultado de negócio.
+Profissional de dados com formação híbrida em **Análise e Desenvolvimento de Sistemas**, **Ciências Contábeis** e pós-graduação em **Big Data & Business Analytics**. Atuo na construção de pipelines de dados confiáveis, arquiteturas analíticas (Medallion / Star Schema / SCD Type 2), **engenharia de qualidade de dados (Data QA & testes automatizados)**, automação de processos financeiros e entrega de indicadores estratégicos que conectam operação e resultado de negócio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisadai-modesto/)
 [![Email](https://img.shields.io/badge/Email-amisadai__modesto%40gmx.com-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:amisadai_modesto@gmx.com)
@@ -13,6 +13,7 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 
 * **[Retail Open Lakehouse](https://github.com/amisadaimodesto/retail-open-lakehouse):** Pipeline de engenharia de dados end-to-end para varejo aplicando arquitetura Medallion, armazenamento colunar em Parquet, processamento analítico com **DuckDB**, modelagem dimensional com **dbt** e suíte automatizada de testes de qualidade de dados.
 * **[Alocador Automático de Cheques por NFs](https://github.com/amisadaimodesto/apropriarCheque_python):** Motor determinístico em **Python, Pandas e OpenPyXL** para conciliação contábil e rateio FIFO de créditos por notas fiscais, com geração automática de relatórios auditáveis em Excel e execução interativa via Google Colab.
+* **[Gerador de Cobranças & Relatórios HTML](https://github.com/amisadaimodesto/gerador-cobranca-whatsapp):** Aplicação em Python para automatização de réguas de cobrança e geração dinâmica de relatórios gerenciais em HTML.
 * **Automação de Data QA & Validação de Pipelines:** Desenvolvimento de rotinas automatizadas de auditoria, testes de integridade referencial, validação de contratos de dados (schema checks) e reconciliação de volumetria para garantir confiabilidade em cargas ETL/ELT.
 
 ---
@@ -24,6 +25,7 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -42,12 +44,15 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-**Sistemas, DevOps & Infraestrutura**
+**Sistemas, Ambientes Híbridos & Web**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/WSL2-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/HTML5_%2F_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 e JavaScript" />
 </p>
 
 ---
@@ -60,12 +65,13 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 * **Extensão em Engenharia e Construção de Sistemas de Software** — IFSP
 * **Extensão em Introdução à Inteligência Artificial em Python** — IFSP
 * **Extensão em Administração de Redes Linux** — IFSP
+* **Windows Server 2016: Active Directory** — IFRS
 * *Em andamento:* Preparação para certificação **AWS Certified Data Engineer - Associate (DEA-C01)**
 
 ---
 
 ## 🎯 Foco Atual
 
-* Arquitetura de dados moderna, pipelines ETL/ELT idempotentes e modelagem dimensional
+* Arquitetura de dados moderna, pipelines ETL/ELT idempotentes e modelagem dimensional (SCD Type 2)
 * **Qualidade de dados (Data QA)**, observabilidade de pipelines e testes automatizados
 * Engenharia analítica em nuvem (AWS) e automação de processos financeiros
