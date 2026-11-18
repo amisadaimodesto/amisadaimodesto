@@ -54,6 +54,9 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark SQL" />
+  <img src="https://img.shields.io/badge/GraphFrames-2E7D32?style=for-the-badge&logo=apachespark&logoColor=white" alt="GraphFrames" />
+  <img src="https://img.shields.io/badge/Spark_MLlib-1565C0?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark MLlib" />
 
   <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
 
