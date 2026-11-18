@@ -158,5 +158,5 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 
 - **Engenharia de Qualidade (Data QA & Testes E2E)** com Playwright, Pytest e Allure
 
-- Engenharia analítica em nuvem (AWS) e automação de processos financeiros
+- **Engenharia analítica em nuvem (AWS) e automação de processos financeiros**
 
