@@ -51,12 +51,12 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 
 ## 🎓 Formação Acadêmica & Certificações
 
-* **Pós-graduação em Gestão de Big Data e Business Analytics** — Senac EAD[cite: 5]
-* **Graduação em Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília (UCB)[cite: 5]
+* **Pós-graduação em Gestão de Big Data e Business Analytics** — Senac EAD
+* **Graduação em Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília (UCB)
 * **Bacharelado em Ciências Contábeis**
-* **Extensão em Engenharia e Construção de Sistemas de Software** — IFSP[cite: 5]
-* **Extensão em Introdução à Inteligência Artificial em Python** — IFSP[cite: 5]
-* **Extensão em Administração de Redes Linux** — IFSP[cite: 5]
+* **Extensão em Engenharia e Construção de Sistemas de Software** — IFSP
+* **Extensão em Introdução à Inteligência Artificial em Python** — IFSP
+* **Extensão em Administração de Redes Linux** — IFSP
 * *Em andamento:* Preparação para certificação **AWS Certified Data Engineer - Associate (DEA-C01)**
 
 ---
