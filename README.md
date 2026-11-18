@@ -1,6 +1,6 @@
 # Olá, eu sou o Amisadai Modesto 👋
 
-### Data Engineer & Data Analyst | Python • SQL • Lakehouse • QA Automation • Cloud (AWS) • Business & FP&A
+### Data Analyst | Python • SQL • Lakehouse • QA Automation • Cloud (AWS) • Business & FP&A
 
 Profissional de dados com formação híbrida em **Análise e Desenvolvimento de Sistemas**, **Ciências Contábeis** e pós-graduação em **Big Data & Business Analytics**. Atuo na construção de pipelines de dados confiáveis, arquiteturas analíticas (Medallion / Star Schema / SCD Type 2), **engenharia de qualidade (Data QA, testes E2E & observabilidade)**, automação de processos financeiros e entrega de indicadores estratégicos que conectam operação e resultado de negócio.
 
