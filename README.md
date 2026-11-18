@@ -156,7 +156,7 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 
 - Arquitetura de dados moderna, pipelines ETL/ELT idempotentes e modelagem dimensional (SCD Type 2)
 
-- **Engenharia de Qualidade (Data QA & Testes E2E)** com Playwright, Pytest e Allure
+- Engenharia de Qualidade (Data QA & Testes E2E) com Playwright, Pytest e Allure
 
 - **Engenharia analítica em nuvem (AWS) e automação de processos financeiros**
 
