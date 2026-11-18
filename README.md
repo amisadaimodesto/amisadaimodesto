@@ -1,78 +1,159 @@
+
 # Olá, eu sou o Amisadai Modesto 👋
+
+
 
 ### Data Analyst | Python • SQL • Lakehouse • QA Automation • Cloud (AWS) • Business & FP&A
 
+
+
 Profissional de dados com formação híbrida em **Análise e Desenvolvimento de Sistemas**, **Ciências Contábeis** e pós-graduação em **Big Data & Business Analytics**. Atuo na construção de pipelines de dados confiáveis, arquiteturas analíticas (Medallion / Star Schema / SCD Type 2), **engenharia de qualidade (Data QA, testes E2E & observabilidade)**, automação de processos financeiros e entrega de indicadores estratégicos que conectam operação e resultado de negócio.
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisadai-modesto/)
+
 [![Email](https://img.shields.io/badge/Email-amisadai__modesto%40gmx.com-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:amisadai_modesto@gmx.com)
 
+
+
 ---
+
+
 
 ## 🚀 Projetos em Destaque
 
-* **[Retail Open Lakehouse](https://github.com/amisadaimodesto/retail-open-lakehouse):** Pipeline de engenharia de dados end-to-end para varejo aplicando arquitetura Medallion, armazenamento colunar em Parquet, processamento analítico com **DuckDB**, modelagem dimensional com **dbt** e suíte automatizada de testes de qualidade de dados.
-* **[Alocador Automático de Cheques por NFs](https://github.com/amisadaimodesto/apropriarCheque_python):** Motor determinístico em **Python, Pandas e OpenPyXL** para conciliação contábil e rateio FIFO de créditos por notas fiscais, com geração automática de relatórios auditáveis em Excel e execução interativa via Google Colab.
-* **[Gerador de Cobranças & Relatórios HTML](https://github.com/amisadaimodesto/gerador-cobranca-whatsapp):** Aplicação em Python para automatização de réguas de cobrança e geração dinâmica de relatórios gerenciais em HTML.
-* **Automação de QA & Validação de Pipelines:** Desenvolvimento de suítes de testes E2E e auditoria de dados utilizando **Playwright, Pytest e Allure Report**, cobrindo validação de contratos de dados (schema checks), integridade referencial e evidências automatizadas de execução.
+
+
+- **[Supply Chain Graph Lakehouse](https://github.com/amisadaimodesto/supply-chain-graph-lakehouse):** Pipeline end-to-end de engenharia de dados, análise topológica e machine learning distribuído com **PySpark, Spark SQL, GraphFrames e MLlib** em **Docker**, modelando malhas logísticas multi-tier (PageRank, Connected Components e previsão de risco de SLA com AUC-ROC 0.938).
+
+- **[Retail Open Lakehouse](https://github.com/amisadaimodesto/retail-open-lakehouse):** Pipeline de engenharia de dados end-to-end para varejo aplicando arquitetura Medallion, armazenamento colunar em Parquet, processamento analítico com **DuckDB**, modelagem dimensional com **dbt** e suíte automatizada de testes de qualidade de dados.
+
+- **[Alocador Automático de Cheques por NFs](https://github.com/amisadaimodesto/apropriarCheque_python):** Motor determinístico em **Python, Pandas e OpenPyXL** para conciliação contábil e rateio FIFO de créditos por notas fiscais, com geração automática de relatórios auditáveis em Excel e execução interativa via Google Colab.
+
+- **[Gerador de Cobranças & Relatórios HTML](https://github.com/amisadaimodesto/gerador-cobranca-whatsapp):** Aplicação em Python para automatização de réguas de cobrança e geração dinâmica de relatórios gerenciais em HTML.
+
+- **[Automação de QA & Validação de Pipelines](https://github.com/amisadaimodesto/qa-playwright-e2e-framework):** Desenvolvimento de suítes de testes E2E e auditoria de dados utilizando **Playwright, Pytest e Allure Report**, cobrindo validação de contratos de dados (schema checks), integridade referencial e evidências automatizadas de execução.
+
+
 
 ---
+
+
 
 ## 🛠️ Stack Técnica & Ferramentas
 
+
+
 **Engenharia de Dados, Big Data & Cloud**
+
 <p>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+
   <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
+
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
 </p>
+
+
 
 **QA Automation, Analytics & BI**
+
 <p>
+
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+
   <img src="https://img.shields.io/badge/Allure_Report-FF5722?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Allure Report" />
+
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+
   <img src="https://img.shields.io/badge/API_RESTful-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="API RESTful" />
+
   <img src="https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="VBA Excel" />
+
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
 </p>
+
+
 
 **Sistemas, Ambientes Híbridos & Web**
+
 <p>
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
   <img src="https://img.shields.io/badge/WSL2-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="WSL2" />
+
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script" />
+
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
   <img src="https://img.shields.io/badge/HTML5_%2F_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 e JavaScript" />
+
 </p>
 
+
+
 ---
+
+
 
 ## 🎓 Formação Acadêmica & Certificações
 
-* **Pós-graduação em Gestão de Big Data e Business Analytics** — Senac EAD
-* **Graduação em Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília (UCB)
-* **Bacharelado em Ciências Contábeis**
-* **Extensão em Engenharia e Construção de Sistemas de Software** — IFSP
-* **Extensão em Introdução à Inteligência Artificial em Python** — IFSP
-* **Extensão em Administração de Redes Linux** — IFSP
-* **Windows Server 2016: Active Directory** — IFRS
-* *Em andamento:* Preparação para certificação **AWS Certified Data Engineer - Associate (DEA-C01)**
+
+
+- **Pós-graduação em Gestão de Big Data e Business Analytics** — Senac EAD
+
+- **Graduação em Análise e Desenvolvimento de Sistemas** — Universidade Católica de Brasília (UCB)
+
+- **Bacharelado em Ciências Contábeis**
+
+- **Extensão em Engenharia e Construção de Sistemas de Software** — IFSP
+
+- **Extensão em Introdução à Inteligência Artificial em Python** — IFSP
+
+- **Extensão em Administração de Redes Linux** — IFSP
+
+- **Windows Server 2016: Active Directory** — IFRS
+
+- *Em andamento:* Preparação para certificação **AWS Certified Data Engineer - Associate (DEA-C01)**
+
+
 
 ---
 
+
+
 ## 🎯 Foco Atual
 
-* Arquitetura de dados moderna, pipelines ETL/ELT idempotentes e modelagem dimensional (SCD Type 2)
-* **Engenharia de Qualidade (Data QA & Testes E2E)** com Playwright, Pytest e Allure
-* Engenharia analítica em nuvem (AWS) e automação de processos financeiros
+
+
+- Arquitetura de dados moderna, pipelines ETL/ELT idempotentes e modelagem dimensional (SCD Type 2)
+
+- **Engenharia de Qualidade (Data QA & Testes E2E)** com Playwright, Pytest e Allure
+
+- Engenharia analítica em nuvem (AWS) e automação de processos financeiros
+
