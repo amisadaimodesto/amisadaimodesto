@@ -1,8 +1,8 @@
 # Olá, eu sou o Amisadai Modesto 👋
 
-### Data Engineer & Data Analyst | Python • SQL • Lakehouse • Cloud (AWS) • Business & FP&A
+### Data Engineer & Data Analyst | Python • SQL • Lakehouse • Data QA • Cloud (AWS) • Business & FP&A
 
-Profissional de dados com formação híbrida em **Análise e Desenvolvimento de Sistemas**, **Ciências Contábeis** e pós-graduação em **Big Data & Business Analytics**[cite: 5]. Atuo na construção de pipelines de dados confiáveis, arquiteturas analíticas (Medallion / Star Schema), automação de processos financeiros e entrega de indicadores estratégicos que conectam operação e resultado de negócio.
+Profissional de dados com formação híbrida em **Análise e Desenvolvimento de Sistemas**, **Ciências Contábeis** e pós-graduação em **Big Data & Business Analytics**. Atuo na construção de pipelines de dados confiáveis, arquiteturas analíticas (Medallion / Star Schema), **engenharia de qualidade de dados (Data QA & testes automatizados)**, automação de processos financeiros e entrega de indicadores estratégicos que conectam operação e resultado de negócio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisadai-modesto/)
 [![Email](https://img.shields.io/badge/Email-amisadai__modesto%40gmx.com-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:amisadai_modesto@gmx.com)
@@ -11,8 +11,9 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 
 ## 🚀 Projetos em Destaque
 
-* **[Retail Open Lakehouse](https://github.com/amisadaimodesto/retail-open-lakehouse):** Pipeline de engenharia de dados end-to-end para varejo aplicando arquitetura Medallion, armazenamento colunar em Parquet, processamento analítico com **DuckDB**, modelagem dimensional com **dbt** e testes automatizados de qualidade de dados.
+* **[Retail Open Lakehouse](https://github.com/amisadaimodesto/retail-open-lakehouse):** Pipeline de engenharia de dados end-to-end para varejo aplicando arquitetura Medallion, armazenamento colunar em Parquet, processamento analítico com **DuckDB**, modelagem dimensional com **dbt** e suíte automatizada de testes de qualidade de dados.
 * **[Alocador Automático de Cheques por NFs](https://github.com/amisadaimodesto/apropriarCheque_python):** Motor determinístico em **Python, Pandas e OpenPyXL** para conciliação contábil e rateio FIFO de créditos por notas fiscais, com geração automática de relatórios auditáveis em Excel e execução interativa via Google Colab.
+* **Automação de Data QA & Validação de Pipelines:** Desenvolvimento de rotinas automatizadas de auditoria, testes de integridade referencial, validação de contratos de dados (schema checks) e reconciliação de volumetria para garantir confiabilidade em cargas ETL/ELT.
 
 ---
 
@@ -29,8 +30,10 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-**Data Analytics, BI & Automação**
+**Data QA, Analytics & Automação**
 <p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Data_Quality-2E8B57?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -64,5 +67,5 @@ Profissional de dados com formação híbrida em **Análise e Desenvolvimento de
 ## 🎯 Foco Atual
 
 * Arquitetura de dados moderna, pipelines ETL/ELT idempotentes e modelagem dimensional
-* Governança, qualidade de dados e engenharia analítica em nuvem (AWS)
-* Automação de processos financeiros, integrações via API e inteligência de negócios
+* **Qualidade de dados (Data QA)**, observabilidade de pipelines e testes automatizados
+* Engenharia analítica em nuvem (AWS) e automação de processos financeiros
